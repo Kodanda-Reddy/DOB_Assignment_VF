@@ -4,7 +4,7 @@ This test suite is created to validate the Date of birth endpoint with different
 
 Steps to execute the suite:
 Pre requisites:
-1. Python installed and Env variables for python are setup
+1. Python(3.6 and above) installed and Env variables for python are setup
 
 Steps:
 1. Download the project from the repository
